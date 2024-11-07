@@ -1,4 +1,0 @@
-whatsapp automation
-  
-  import pywhatkit
-  pywhatkit.sendwhatmsg('+918098520793','Hi',16,29)
